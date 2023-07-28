@@ -18,12 +18,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   padding: 15px 15px 30px;
   border-radius: 10px;
-}
- .image {
-    width: 100% !important;
-    height: 100%;
-  }
-
+  
   .heading {
     color: hsl(218, 44%, 22%);
     font-size: 25px;
@@ -38,4 +33,5 @@ body {
     font-size: 15px;
     line-height: 21px;
     font-weight: 400;
-  }
+}
+}
