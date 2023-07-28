@@ -18,8 +18,8 @@ body {
   background-color: hsl(0, 0%, 100%);
   padding: 15px 15px 30px;
   border-radius: 10px;
-  
-  .heading {
+
+  & h1 {
     color: hsl(218, 44%, 22%);
     font-size: 25px;
     line-height: 35px;
@@ -27,7 +27,7 @@ body {
     margin: 10px 0;
   }
 
-  .paragraph {
+ & p {
     padding: 0px 20px;
     color: hsl(220, 15%, 55%);
     font-size: 15px;
